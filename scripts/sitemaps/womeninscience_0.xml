@@ -1,0 +1,43 @@
+undefined<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/bg-bullet.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/border-horizontal.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/index.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/pause.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/play.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/womeninscience/web/html/writing_paper.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

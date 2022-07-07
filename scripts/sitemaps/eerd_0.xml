@@ -1,0 +1,73 @@
+undefined<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/1-3_meth_901.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/11_meth_902.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/12_meth_902.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/13_meth_903.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/14_meth_903.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/15_meth_903.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/16_meth_904.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/17_meth_905.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/4-10_met_901.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/biblio_905.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/eerd/archive-eerd/web/pdf/referenc_905.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

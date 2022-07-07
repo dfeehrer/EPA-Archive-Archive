@@ -1,0 +1,91 @@
+undefined<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure1.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure3.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure_01.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure_02.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure_03.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/pdf/figure_04.pdf</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/bathymetry.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/dataanalysis.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/gis.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/gps.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/index.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/indianaharbor.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/manistique.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/region5fields/web/html/training.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

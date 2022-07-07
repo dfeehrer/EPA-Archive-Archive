@@ -1,0 +1,55 @@
+undefined<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/comments-2.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/comments.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/comments_esp.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/dateurl_esp.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/index-2.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/index.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/index_espanol.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://archive.epa.gov/columbia/web/html/question.html</loc>
+  <lastmod></lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
