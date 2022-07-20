@@ -59,7 +59,7 @@ function Home() {
       </Heading>
       <Heading as="h2" size="sm" maxW="400px">
         A very unofficial first attempt to archive the EPA Archive, which is
-        being sunsetted in July, 2022. Links to the Wayback Machine.
+        being sunsetted in June, 2023. Links to the Wayback Machine.
       </Heading>
       <Link
         mb="50px"
