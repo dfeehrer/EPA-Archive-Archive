@@ -19,7 +19,7 @@
   "homepage": "http://derekfeehrer.com/EPA-Archive-Archive",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp -R ./build ../docs",
+    "build": "react-scripts build && rm -R ../docs && cp -R ./build ../docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
