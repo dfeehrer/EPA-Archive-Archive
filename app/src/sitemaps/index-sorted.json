@@ -1,0 +1,526 @@
+[
+  {
+    "id": "adminweb",
+    "name": "Admin Web"
+  },
+  {
+    "id": "aed",
+    "name": "AED"
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture"
+  },
+  {
+    "id": "air",
+    "name": "Air"
+  },
+  {
+    "id": "airmarkets",
+    "name": "Air Markets"
+  },
+  {
+    "id": "airquality",
+    "name": "Air Quality"
+  },
+  {
+    "id": "airtoxics",
+    "name": "Air Toxics"
+  },
+  {
+    "id": "amad",
+    "name": "AMAD"
+  },
+  {
+    "id": "apti",
+    "name": "APTI"
+  },
+  {
+    "id": "athens",
+    "name": "Athens"
+  },
+  {
+    "id": "bns",
+    "name": "BNS"
+  },
+  {
+    "id": "brownfields",
+    "name": "Brownfields"
+  },
+  {
+    "id": "care",
+    "name": "Care"
+  },
+  {
+    "id": "civilrights",
+    "name": "Civil Rights"
+  },
+  {
+    "id": "clearskies",
+    "name": "Clear Skies"
+  },
+  {
+    "id": "climatechange",
+    "name": "Climate Change"
+  },
+  {
+    "id": "columbia",
+    "name": "Columbia"
+  },
+  {
+    "id": "compliance",
+    "name": "Compliance"
+  },
+  {
+    "id": "composting",
+    "name": "Composting"
+  },
+  {
+    "id": "dclead",
+    "name": "DC Lead"
+  },
+  {
+    "id": "earlink1",
+    "name": "Earlink1"
+  },
+  {
+    "id": "ecoambassadors",
+    "name": "Eco Ambassadors"
+  },
+  {
+    "id": "ecopage",
+    "name": "Eco Page"
+  },
+  {
+    "id": "education",
+    "name": "Education"
+  },
+  {
+    "id": "eerd",
+    "name": "EERD"
+  },
+  {
+    "id": "ehwg",
+    "name": "EHWG"
+  },
+  {
+    "id": "emap",
+    "name": "EMAP"
+  },
+  {
+    "id": "emergencies",
+    "name": "Emergencies"
+  },
+  {
+    "id": "enforcement",
+    "name": "Enforcement"
+  },
+  {
+    "id": "enviro",
+    "name": "Enviro"
+  },
+  {
+    "id": "environmentaljustice",
+    "name": "Environmental Justice"
+  },
+  {
+    "id": "epa",
+    "name": "EPA"
+  },
+  {
+    "id": "epahome",
+    "name": "EPA Home"
+  },
+  {
+    "id": "epapages",
+    "name": "EPA Pages"
+  },
+  {
+    "id": "epawaste",
+    "name": "EPA Waste"
+  },
+  {
+    "id": "esd",
+    "name": "ESD"
+  },
+  {
+    "id": "fbnpartnerships",
+    "name": "FBN Partnerships"
+  },
+  {
+    "id": "flu",
+    "name": "Flu"
+  },
+  {
+    "id": "fuelcell",
+    "name": "Fuel Cell"
+  },
+  {
+    "id": "ged",
+    "name": "GED"
+  },
+  {
+    "id": "gmpo",
+    "name": "GMPO"
+  },
+  {
+    "id": "greatlakes",
+    "name": "Great Lakes"
+  },
+  {
+    "id": "greenacres",
+    "name": "Green Acres"
+  },
+  {
+    "id": "greenbuilding",
+    "name": "Green Building"
+  },
+  {
+    "id": "gulfcoasttaskforce",
+    "name": "Gulf Coast Taskforce"
+  },
+  {
+    "id": "heasd",
+    "name": "HEASD"
+  },
+  {
+    "id": "hsrb",
+    "name": "HSRB"
+  },
+  {
+    "id": "international",
+    "name": "International"
+  },
+  {
+    "id": "japan2011",
+    "name": "Japan 2011"
+  },
+  {
+    "id": "joplin",
+    "name": "Joplin"
+  },
+  {
+    "id": "katrina",
+    "name": "Katrina"
+  },
+  {
+    "id": "lapse",
+    "name": "Lapse"
+  },
+  {
+    "id": "lawsregs",
+    "name": "Laws Regs"
+  },
+  {
+    "id": "med",
+    "name": "Med"
+  },
+  {
+    "id": "mercury",
+    "name": "Mercury"
+  },
+  {
+    "id": "mercuryrule",
+    "name": "Mercury Rule"
+  },
+  {
+    "id": "microbes",
+    "name": "Microbes"
+  },
+  {
+    "id": "midwestcleandiesel",
+    "name": "Midwest Clean Diesel"
+  },
+  {
+    "id": "mtbe",
+    "name": "MTBE"
+  },
+  {
+    "id": "multimedia",
+    "name": "Multimedia"
+  },
+  {
+    "id": "nata2002",
+    "name": "NATA 2002"
+  },
+  {
+    "id": "ncer",
+    "name": "NCER"
+  },
+  {
+    "id": "neear",
+    "name": "NEEAR"
+  },
+  {
+    "id": "nheerl",
+    "name": "NHEERL"
+  },
+  {
+    "id": "nrmrl",
+    "name": "NRMRL"
+  },
+  {
+    "id": "oam",
+    "name": "OAM"
+  },
+  {
+    "id": "ocir",
+    "name": "OCIR"
+  },
+  {
+    "id": "ogc",
+    "name": "OGC"
+  },
+  {
+    "id": "oig",
+    "name": "OIG"
+  },
+  {
+    "id": "oppefed1",
+    "name": "OPPE Fed1"
+  },
+  {
+    "id": "oppfead1",
+    "name": "Oppfead1"
+  },
+  {
+    "id": "opprd001",
+    "name": "Opprd001"
+  },
+  {
+    "id": "oppsrrd1",
+    "name": "Oppsrrd1"
+  },
+  {
+    "id": "oppt",
+    "name": "OPPT"
+  },
+  {
+    "id": "ordntrnt",
+    "name": "Ordntrnt"
+  },
+  {
+    "id": "osa",
+    "name": "OSA"
+  },
+  {
+    "id": "osem",
+    "name": "OSEM"
+  },
+  {
+    "id": "osp",
+    "name": "OSP"
+  },
+  {
+    "id": "oswer",
+    "name": "OSWER"
+  },
+  {
+    "id": "otaq",
+    "name": "OTAQ"
+  },
+  {
+    "id": "oust",
+    "name": "OUST"
+  },
+  {
+    "id": "ow",
+    "name": "OW"
+  },
+  {
+    "id": "ozonedesignations",
+    "name": "Ozone Designations"
+  },
+  {
+    "id": "p2",
+    "name": "P2"
+  },
+  {
+    "id": "partners",
+    "name": "Partners"
+  },
+  {
+    "id": "performancetrack",
+    "name": "Performance Track"
+  },
+  {
+    "id": "pesticides",
+    "name": "Pesticides"
+  },
+  {
+    "id": "projectxl",
+    "name": "Project XL"
+  },
+  {
+    "id": "publicinvolvement",
+    "name": "Public Involvement"
+  },
+  {
+    "id": "r5water",
+    "name": "R5 Water"
+  },
+  {
+    "id": "radiation",
+    "name": "Radiation"
+  },
+  {
+    "id": "raf",
+    "name": "RF"
+  },
+  {
+    "id": "recovery",
+    "name": "Recovery"
+  },
+  {
+    "id": "reg3artd",
+    "name": "Reg 3 ARTD"
+  },
+  {
+    "id": "reg3esd1",
+    "name": "Reg 3 ESD1"
+  },
+  {
+    "id": "reg3hwmd",
+    "name": "Reg 3 HWMD"
+  },
+  {
+    "id": "reg3wcmd",
+    "name": "Reg 3 WCMD"
+  },
+  {
+    "id": "reg5oair",
+    "name": "Reg 5 OAIR"
+  },
+  {
+    "id": "reg5sfun",
+    "name": "Reg 5 SFUN"
+  },
+  {
+    "id": "region02",
+    "name": "Region 02"
+  },
+  {
+    "id": "region03",
+    "name": "Region 03"
+  },
+  {
+    "id": "region07",
+    "name": "Region 07"
+  },
+  {
+    "id": "region09",
+    "name": "Region 09"
+  },
+  {
+    "id": "region1",
+    "name": "Region 1"
+  },
+  {
+    "id": "region10",
+    "name": "Region 10"
+  },
+  {
+    "id": "region3",
+    "name": "Region 3"
+  },
+  {
+    "id": "region4",
+    "name": "Region 4"
+  },
+  {
+    "id": "region5",
+    "name": "Region 5"
+  },
+  {
+    "id": "region5fields",
+    "name": "Region 5 Fields"
+  },
+  {
+    "id": "region6",
+    "name": "Region 6"
+  },
+  {
+    "id": "region9",
+    "name": "Region 9"
+  },
+  {
+    "id": "risk",
+    "name": "Risk"
+  },
+  {
+    "id": "schoolair",
+    "name": "School Air"
+  },
+  {
+    "id": "sciencenotebook",
+    "name": "Science Notebook"
+  },
+  {
+    "id": "scipoly",
+    "name": "Sci Poly"
+  },
+  {
+    "id": "sectors",
+    "name": "Sectors"
+  },
+  {
+    "id": "smm",
+    "name": "SMM"
+  },
+  {
+    "id": "socal",
+    "name": "SoCal"
+  },
+  {
+    "id": "solec",
+    "name": "SOLEC"
+  },
+  {
+    "id": "stewardship",
+    "name": "Stewardship"
+  },
+  {
+    "id": "students",
+    "name": "Students"
+  },
+  {
+    "id": "sustainablemanufacturing",
+    "name": "Sustainable Manufacturing"
+  },
+  {
+    "id": "teach",
+    "name": "Teach"
+  },
+  {
+    "id": "ttn",
+    "name": "TTM"
+  },
+  {
+    "id": "uvnet",
+    "name": "UVNET"
+  },
+  {
+    "id": "wastes",
+    "name": "Wastes"
+  },
+  {
+    "id": "water",
+    "name": "Water"
+  },
+  {
+    "id": "wed",
+    "name": "WED"
+  },
+  {
+    "id": "womenandgirls",
+    "name": "Women and Girls"
+  },
+  {
+    "id": "womeninscience",
+    "name": "Women in Science"
+  },
+  {
+    "id": "wtc",
+    "name": "WTC"
+  }
+]
